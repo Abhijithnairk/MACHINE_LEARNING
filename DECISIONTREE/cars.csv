@@ -1,0 +1,13 @@
+car_brand,car_type,engine_size,price_more_than_50k
+Toyota,sedan,small,0
+Toyota,suv,large,0
+Toyota,truck,large,1
+Toyota,hatchback,medium,0
+Honda,sedan,medium,1
+Honda,suv,large,1
+Honda,truck,large,1
+Honda,hatchback,small,0
+Ford,sedan,medium,1
+Ford,suv,large,1
+Ford,truck,extra_large,1
+Ford,hatchback,small,0
